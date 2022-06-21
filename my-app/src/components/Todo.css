@@ -1,0 +1,13 @@
+.main-row{
+    height: 100vh;
+}
+.main-col{
+    max-width: 500px;
+    min-height: 300px;
+}
+.todo-done{
+    text-decoration: line-through;
+}
+.main{
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
